@@ -1,0 +1,20 @@
+[
+  {
+    "lab": "Computer Lab",
+    "date": "2025-11-04",
+    "hour": "09:00-10:00",
+    "note": "ict12"
+  },
+  {
+    "lab": "Science Lab",
+    "date": "2025-11-04",
+    "hour": "11:00-12:00",
+    "note": "Stem B 12"
+  },
+  {
+    "lab": "Science Lab",
+    "date": "2025-11-04",
+    "hour": "13:00-14:00",
+    "note": "Stem C 12"
+  }
+]
