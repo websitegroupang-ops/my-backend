@@ -2,9 +2,9 @@
   "name": "lab-reservation-system",
   "version": "1.0.0",
   "description": "Lab Reservation System with Admin",
-  "main": "server.js",
+  "main": "server.js", 
   "scripts": {
-    "start": "node server.js"  // Fix: use lowercase 'server.js'
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.20.3",
